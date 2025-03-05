@@ -55,9 +55,9 @@ I am a **Java Full Stack Developer** with **5+ years** of experience. I have wor
 - Gained hands-on experience with CI/CD pipelines using Jenkins and Docker, version control with Git, and unit testing with JUnit to ensure code quality and maintainability.
 
 ## 🎓 Education  
-🎓 **Master of Science in Information Science and Technology** in Missouri University Of Science and Technology, USA.
+🎓 **Master of Science in Information Science and Technology** in Missouri University Of Science       and Technology, USA.
 
-🎓 **Bachelor of Technology in Computer Science Engineering** in Gandhi Institute of Technology and Management, INDIA.  
+🎓 **Bachelor of Technology in Computer Science Engineering** in Gandhi Institute of Technology and    Management, INDIA.  
   
 
 ## Connect With Me  
