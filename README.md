@@ -6,7 +6,7 @@
 📞 **Phone:** 573-647-1757 
 
 ## Download Resume  
- [Download Resume]()
+ [Download Resume](https://github.com/hemanth2302/Portfolio/blob/main/HemanthPoliparthi.docx)
 
 ##  About Me  
 I am a **Java Full Stack Developer** with **5+ years** of experience. I have worked with **Bank of America, US Bank, Abbott, Pixel Wind Technologies and Cognizant**. Full Stack Java Developer with a strong background in building scalable enterprise applications using **Java, Spring Boot, Microservices, and modern web technologies like React.js and Angular**.
